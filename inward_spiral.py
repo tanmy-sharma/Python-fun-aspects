@@ -9,7 +9,7 @@ wn.bgcolor("black")
 spiral = turtle.Turtle()
 spiral.color("white")
 spiral.penup()
-spiral.goto(-100, -100)
+spiral.goto(-100, 100)
 spiral.pendown()
 
 size = 200  # size of the first line drawn
